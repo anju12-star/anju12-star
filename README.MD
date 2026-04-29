@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/UDaygupta12512/UDaygupta12512/main/Banner.png" alt="Uday Gupta Banner" width="100%"/>
 </p>
 
+<!-- ===================== TYPING SVG ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21D4FD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Uday+Gupta+👋;Full+Stack+Developer+%7C+AI+Enthusiast;B.Tech+CSE+%40+MIET+%7C+Minor+AI+%40+IIT+Ropar;Building+tools+that+turn+ideas+into+reality+🚀" alt="Typing SVG"/>
+</p>
+
 <!-- ===================== SOCIAL LINKS ===================== -->
 <p align="center">
   <a href="https://linkedin.com/in/uday-gupta-7b0887295/">
@@ -39,6 +44,7 @@
 - 🤖 **AI & ML Explorer | Frontend Enthusiast | Product Builder**
 - 🌱 Currently learning **Cloud, Generative AI, and Advanced Web Apps**
 - 💬 Ask me about **Python, React, AI, or anything tech!**
+- 🏆 Solved **400+ DSA problems** across platforms
 - 🛠️ Fun fact: I love building tools that turn ideas into real products!
 - 📬 Reach me at **udayapril22@gmail.com** for work or collaboration
 
@@ -50,7 +56,7 @@
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,redux,nextjs,nodejs,tailwind,flask,mongodb,firebase,git,github,linux,vscode,androidstudio,intellij" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,redux,nextjs,nodejs,tailwind,flask,mongodb,firebase,git,github,linux,vscode,androidstudio,intellij&perline=10" />
 </p>
 
 <p align="center">
@@ -68,6 +74,7 @@
   <img src="https://img.shields.io/badge/MongoDB-21D4FD?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-FFD200?style=for-the-badge&logo=flask&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FF5A5F?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -82,7 +89,7 @@
         <img src="https://img.icons8.com/ios-filled/70/21D4FD/idea.png" width="52"/><br>
         <b>Dream Builder</b>
       </a><br/>
-      <sub><i>AI tool that converts game ideas into production-ready design docs using GPT-4.5</i></sub><br/>
+      <sub><i>AI tool that converts game ideas into production-ready design docs using GPT-4.5</i></sub><br/><br/>
       <img src="https://img.shields.io/badge/GPT--4.5-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     </td>
@@ -91,7 +98,7 @@
         <img src="https://img.icons8.com/ios-filled/70/FF5A5F/microphone.png" width="52"/><br>
         <b>AI Podcast Generator</b>
       </a><br/>
-      <sub><i>Creates full podcast episodes using GPT-4.5 + ElevenLabs for lifelike voices</i></sub><br/>
+      <sub><i>Creates full podcast episodes using GPT-4.5 + ElevenLabs for lifelike voices</i></sub><br/><br/>
       <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white"/>
       <img src="https://img.shields.io/badge/GPT--4.5-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
@@ -100,7 +107,7 @@
         <img src="https://img.icons8.com/ios-filled/50/FFD200/book.png" width="52"/><br>
         <b>Kiddo Tale Spark</b>
       </a><br/>
-      <sub><i>Generates interactive AI children's stories with DALL·E and GPT</i></sub><br/>
+      <sub><i>Generates interactive AI children's stories with DALL·E and GPT</i></sub><br/><br/>
       <img src="https://img.shields.io/badge/DALL·E-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     </td>
@@ -109,13 +116,29 @@
 
 ---
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+<h2 align="center">🏅 Achievements</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%2050-Smart%20India%20Hackathon-FFD200?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/4★-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐%20CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/1st%20Place-Binary%20Battle-FF5A5F?style=for-the-badge&logo=trophy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/400%2B%20Problems%20Solved-B721FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+---
+
 <!-- ===================== CERTIFICATIONS ===================== -->
 <h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FFD200?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20AI--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-21D4FD?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Foundations%20Associate-F7971E?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Computing-FFD200?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img src="https://img.shields.io/badge/Cisco%20Data%20Science-43E97B?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/160--Day%20DSA%20Challenge-B721FF?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </p>
@@ -157,7 +180,41 @@
 </p>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-<!-- Generated by GitHub Actions — see setup instructions below if not working -->
+<!--
+  HOW TO ENABLE THE SNAKE:
+  1. In your profile repo (UDaygupta12512/UDaygupta12512), create this file:
+       .github/workflows/snake.yml
+  2. Paste the following content into that file:
+
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+    push:
+      branches: [main]
+  jobs:
+    generate:
+      permissions:
+        contents: write
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: UDaygupta12512
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → "Generate Snake Animation" → Run workflow
+  4. The snake will appear below once the "output" branch is created.
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDaygupta12512/UDaygupta12512/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDaygupta12512/UDaygupta12512/output/github-contribution-grid-snake.svg"/>
