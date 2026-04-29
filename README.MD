@@ -8,7 +8,7 @@
 
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=750&lines=🚀+Shipping+AI-powered+SaaS+products;⚡+MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure;🎓+Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET;🏆+1st+%40+IEEE+Binary+Battle+%7C+Top+50+SIH+2025;🌍+GSSoC+'25+%7C+SWOC+'25+%7C+Hacktoberfest+'24;✨+Building+tools+real+users+love" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=750&lines=Shipping+AI-powered+SaaS+products+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure+%E2%9A%A1;Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET+%F0%9F%8E%93;1st+%40+IEEE+Binary+Battle+%7C+Top+50+SIH+2025+%F0%9F%8F%86;GSSoC+%2725+%7C+SWOC+%2725+%7C+Hacktoberfest+%2724+%F0%9F%8C%8D;Building+tools+that+real+users+love+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
